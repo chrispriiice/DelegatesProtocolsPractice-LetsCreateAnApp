@@ -6,6 +6,9 @@
 //  Copyright © 2020 Chris Price. All rights reserved.
 //
 
+
+// Made from following along with the video from the Let's Create An App channel of youtube. Link: https://www.youtube.com/watch?v=tIrhzByaA14
+
 import UIKit
 
 class ViewController: UIViewController {
